@@ -1,4 +1,4 @@
-# coursecomb.github.io
+# coursecomb_web
 The project website for CourseComb. 
 
 CourseComb is a group project by 4 undergraduate Princeton students, HJ Suh, Ada Nguyen, Matt Yi and Dowon Kim.
